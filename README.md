@@ -1,7 +1,7 @@
 # SeeraGroup
 <h3>Scenarios Automated:</h3>
+<h2>1- Perform the below: Method: GET</h2>
 <ul>
-  <h2>1- Perform the below: Method: GET</h2>
    <li>URI: https://www.tajawal.ae/api/hotel/ahs/v2/geo-suggest</li>
    <li>Header params:</li>
    <li>parameter name: Content-Type</li>
@@ -11,9 +11,10 @@
     <li>parameter name: query</li>
     <li>parameter value: paris</li>
     <li>Response validations: Perform needed validations on response</li>
-   
 <ul>
-  <h2>2- Perform the below: Method: POST</h2>
+  
+<h2>2- Perform the below: Method: POST</h2>
+ <ul>
    <li>URI: https://www.tajawal.ae/api/hotel/ahs/search/request</li>
    <li>Header params: parameter name: Content-Type parameter value: application/json</li>
   
@@ -21,8 +22,7 @@
    <li>Dates should be dynamic</li>
    <li>Room and guest array should be created dynamically</li>
    <li>Response validations: Perform needed validations on API response</li>
-  
-</ul>
+ </ul>
 <h3>Programming Language and Automation Tools</h3>
 <ul>
   <li>Programming Language:Java</li>
