@@ -1,0 +1,17 @@
+axiom\utils\properties\ConfigFileReader.class
+api\response\searchHotel\GoogleType.class
+api\pages\AdvancedPage.class
+api\request\createBooking\Dates.class
+api\utils\enums\Cities.class
+api\response\searchHotel\Hotels.class
+api\pages\CreateBooking.class
+api\request\createBooking\Room.class
+api\response\searchHotel\SearchHotel.class
+api\pages\SearchHotels.class
+api\utils\enums\GuestType.class
+api\request\createBooking\Guest.class
+api\response\searchHotel\Locations.class
+api\request\createBooking\Booking.class
+api\response\createBooking\BookingCompleted.class
+api\utils\apiMethods\Requests.class
+api\response\createBooking\QueryParametersObj.class
