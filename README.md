@@ -11,7 +11,7 @@
     <li>parameter name: query</li>
     <li>parameter value: paris</li>
     <li>Response validations: Perform needed validations on response</li>
-<ul>
+</ul>
   
 <h2>2- Perform the below: Method: POST</h2>
  <ul>
