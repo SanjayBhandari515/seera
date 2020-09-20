@@ -1,5 +1,5 @@
 # SeeraGroup
-<p>Scenarios Automated:</p>
+<h3>Scenarios Automated:</h3>
 <ul><li>1- Perform the below: Method: GET</li>
 <li>URI: https://www.tajawal.ae/api/hotel/ahs/v2/geo-suggest</li>
   <li>Header params:</li>
@@ -11,6 +11,17 @@
    <li>parameter value: paris</li>
    
    <li>Response validations: Perform needed validations on response</li>
+   
+   <ul><li>2- Perform the below: Method: POST</li>
+   <li>URI: https://www.tajawal.ae/api/hotel/ahs/search/request</li>
+   <li>Header params: parameter name: Content-Type parameter value: application/json</li>
+  
+  <li>Conditions:</li>
+   <li>Dates should be dynamic</li>
+   <li>Room and guest array should be created dynamically</li>
+   
+   <li>Response validations: Perform needed validations on API response</li>
+  
 </ul>
 <h3>Programming Language and Automation Tools</h3>
 <ul><li>Programming Language:Java</li>
@@ -42,5 +53,4 @@
   <a href="" alt="Screenshot-2020-09-21-at-00-08-53" border="0"></a>
  <h3> Cucumber Html output:</h3>
  <p> After running the tests, execute the maven goal <b> mvn surefire-report:report</b> and it will generate a HTML output report<b>"target/site"</b> folder.</p>
-<img src="" alt="Screenshot-2020-09-21-at-00-24-02" border="0">
-<img src="" alt="Screenshot-2020-09-21-at-00-24-02" border="0">
+<a href="https://ibb.co/rywd3tH"><img src="https://i.ibb.co/3hCRvsc/surefire-report.png" alt="Screenshot-2020-09-21-at-00-02-31" border="0"></a>
