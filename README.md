@@ -13,12 +13,12 @@
     <li>Response validations: Perform needed validations on response</li>
 </ul>
   
-<h3>2- Perform the below: Method: POST</h3>
+<h2>2- Perform the below: Method: POST</h2>
  <ul>
    <li>URI: https://www.tajawal.ae/api/hotel/ahs/search/request</li>
    <li>Header params: parameter name: Content-Type parameter value: application/json</li>
   
-  <li>Conditions:</li>
+  <h3>Conditions:</h3>
    <li>Dates should be dynamic</li>
    <li>Room and guest array should be created dynamically</li>
    <li>Response validations: Perform needed validations on API response</li>
@@ -27,7 +27,7 @@
 <ul>
   <li>Programming Language:Java</li>
   <li> Build Tool: Maven</li>
-  <li> <b>rest-assured 4.0.0</b></li>
+  <li> <b>rest-assured : 4.0.0</b></li>
   <li> <b>Junit 4.12</b></li>
   <li> IDE: IntelliJ IDEA 2019.3</li>
 </ul>
