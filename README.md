@@ -1,14 +1,13 @@
-# SeeraGroup
-<h2>Scenarios Automated:</h2>
-<h3>1- Perform the below: Method: GET</h3>
+<h1>Scenarios Automated:</h1>
+<h2>1- Perform the below: Method: GET</h2>
 <ul>
    <li>URI: https://www.tajawal.ae/api/hotel/ahs/v2/geo-suggest</li>
 </ul>   
-   <h1>Header params:</h1>
+   <h3>Header params:</h3>
    <li>parameter name: Content-Type</li>
    <li>parameter value: application/json</li>
   
-   <h1>Query params:</h1>
+   <h3>Query params:</h3>
     <li>parameter name: query</li>
     <li>parameter value: paris</li>
     <li>Response validations: Perform needed validations on response</li>
