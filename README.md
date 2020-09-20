@@ -31,7 +31,7 @@
   <li>src/test/resources/properties : In this location properties files are kept for each page we have a respective property file where we will keep the hardcoded data</li>
   <li>target/site: Contains generated html report</li>
   </ul>
-  <img src="https://ibb.co/BLSjZkP" alt="Project Structure" border="0">
+  <a href="https://ibb.co/BLSjZkP" alt="Project Structure" border="0">
   <h3>Running Tests:</h3>
   
   <ul>
