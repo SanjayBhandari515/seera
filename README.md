@@ -5,7 +5,12 @@
   <li>Header params:</li>
    <li>parameter name: Content-Type</li>
    <li>parameter value: application/json</li>
+  
+  <li>Query params:</li>
+   <li>parameter name: query</li>
+   <li>parameter value: paris</li>
    
+   <li>Response validations: Perform needed validations on response</li>
 </ul>
 <h3>Programming Language and Automation Tools</h3>
 <ul><li>Programming Language:Java</li>
@@ -26,6 +31,7 @@
   <li>src/test/resources/properties : In this location properties files are kept for each page we have a respective property file where we will keep the hardcoded data</li>
   <li>target/site: Contains generated html report</li>
   </ul>
+  <img src="https://ibb.co/BLSjZkP" alt="Project Structure" border="0">
   <h3>Running Tests:</h3>
   
   <ul>
