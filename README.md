@@ -21,7 +21,8 @@
   <h3>Conditions:</h3>
    <li>Dates should be dynamic</li>
    <li>Room and guest array should be created dynamically</li>
-   <li>Response validations: Perform needed validations on API response</li>
+   
+   <h3>Response validations: Perform needed validations on API response</h3>
  </ul>
 <h3>Programming Language and Automation Tools</h3>
 <ul>
