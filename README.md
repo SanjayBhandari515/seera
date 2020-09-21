@@ -54,6 +54,6 @@
 
 </ul>
   <a href="" alt="Screenshot-2020-09-21-at-00-08-53" border="0"></a>
-<h3> Cucumber Html output:</h3>
+<h3> Html output:</h3>
  <p> After running the tests, execute the maven goal <b> mvn surefire-report:report</b> and it will generate a HTML output report<b>"target/site"</b> folder.</p>
 <a href="https://ibb.co/rywd3tH"><img src="https://i.ibb.co/3hCRvsc/surefire-report.png" alt="Screenshot-2020-09-21-at-00-02-31" border="0"></a>
